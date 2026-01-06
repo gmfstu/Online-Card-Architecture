@@ -1,0 +1,93 @@
+{
+	"carddata":
+	[
+		{
+			"name": "Null_Card",
+			"id": 0,
+			"type": "Null",
+         	"power": 1000,
+			"description": "This is the ID 0 card. If you get this in game, wyd??",
+			"attackmod": 0,
+			"defensemod": 0,
+			"healthmod": 0,
+			"effect": "Null"
+		},
+		{
+			"name": "Destroyed Card",
+			"id": 1,
+			"type": "Null",
+         	"power": 0,
+			"description": "This card has been destroyed.",
+			"attackmod": 0,
+			"defensemod": 0,
+			"healthmod": 0,
+			"effect": "None"
+		},
+		{
+			"name": "Basic Minion",
+			"id": 2,
+			"type": "Minion",
+         	"power": 2,
+			"description": "The most basic minion possible. How sad.",
+			"attackmod": 0,
+			"defensemod": 0,
+			"healthmod": 0,
+			"effect": "None"
+		},
+		{
+			"name": "Angry Minion",
+			"id": 3,
+			"type": "Minion",
+         	"power": 1,
+			"description": "Like the basic minion, but angrier.",
+			"attackmod": 2,
+			"defensemod": 0,
+			"healthmod": 0,
+			"effect": "None"
+		},
+		{
+			"name": "Pensive Minion",
+			"id": 4,
+			"type": "Minion",
+         	"power": 1,
+			"description": "Like the angry minion, but not angry, and penisve instead.",
+			"attackmod": 0,
+			"defensemod": 2,
+			"healthmod": 0,
+			"effect": "None"
+		},
+		{
+			"name": "Generic Draw",
+			"id": 5,
+			"type": "Action",
+         	"power": -1,
+			"description": "Play this card to draw two cards",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Draw 2 cards"
+		},
+		{
+			"name": "Generic Damage",
+			"id": 6,
+			"type": "Action",
+         	"power": -1,
+			"description": "Play this card to deal 2 damage.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Deal 2 damage"
+		},
+		{
+			"name": "Generic Buff",
+			"id": 7,
+			"type": "Action",
+         	"power": -1,
+			"description": "Play this card to add 1 to a stat.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1, 
+			"effect": "Add 1 to any stat"
+		}
+	]
+}
