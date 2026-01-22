@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoldenTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a493263e2ee00cd832431f54f714243a5eaedb31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+071ca4d6a806adafa1322bc05c4b149944a75c72")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoldenTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoldenTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

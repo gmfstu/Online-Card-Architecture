@@ -88,6 +88,72 @@
 			"defensemod": -1,
 			"healthmod": -1, 
 			"effect": "Add 1 to any stat"
+		},
+		{
+			"name": "Turn Starter",
+			"id": 8,
+			"type": "Minion",
+         	"power": 2,
+			"description": "At the start of your turn, draw a card.",
+			"attackmod": 0,
+			"defensemod": 0,
+			"healthmod": 0,
+			"effect": "BeginTurn: Draw 1 card"
+		},
+		{
+			"name": "Forced Discard",
+			"id": 9,
+			"type": "Action",
+         	"power": -1,
+			"description": "Target opponent discards a card from their hand.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Opponent discards 1 card"
+		},
+		{
+			"name": "Assassin",
+			"id": 10,
+			"type": "Action",
+         	"power": -1,
+			"description": "Destroy target minion on any base.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Destroy target minion"
+		},
+		{
+			"name": "Power Surge",
+			"id": 11,
+			"type": "Action",
+         	"power": -1,
+			"description": "Give a minion +3 power until end of turn.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Target minion gets +3 power"
+		},
+		{
+			"name": "Reactive Defender",
+			"id": 12,
+			"type": "Minion",
+         	"power": 1,
+			"description": "Activate: Gain +2 defense until end of turn.",
+			"attackmod": 0,
+			"defensemod": 0,
+			"healthmod": 0,
+			"effect": "Activated Ability: +2 defense"
+		},
+		{
+			"name": "Shapeshifter",
+			"id": 13,
+			"type": "Action",
+         	"power": -1,
+			"description": "Transform target minion into a Basic Minion.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Transform target into Basic Minion"
 		}
 	]
 }

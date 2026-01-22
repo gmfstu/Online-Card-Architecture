@@ -1,0 +1,375 @@
+{
+  "files_in_context": [
+    {
+      "path": "ActionSystem.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053697770,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "GameAction.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053702670,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "DrawCardGA.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053706437,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "DrawCardSystem.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053709924,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "PlayCardGA.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053713360,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "PlayCardSystem.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053716387,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "EndTurnGA.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053726167,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "EndTurnSystem.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053729969,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "CardDataJSON.txt",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053733495,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "ReferenceManager.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053751945,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "CardClick2.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053755196,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "golden_tests/NetworkTests.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053790335,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "InstantiatePlayer.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053817686,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "Base.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053834726,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "HeldCards.cs",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769053838020,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/BeginTurnGA.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769053871850,
+      "cline_edit_date": 1769053871850,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/BeginTurnSystem.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769053892189,
+      "cline_edit_date": 1769053892189,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DiscardCardGA.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769053905754,
+      "cline_edit_date": 1769053905754,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DiscardCardSystem.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769053940373,
+      "cline_edit_date": 1769053940373,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DestroyCardGA.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769053952873,
+      "cline_edit_date": 1769053952873,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DestroyCardSystem.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769053983682,
+      "cline_edit_date": 1769053983682,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ModifyCardGA.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054010314,
+      "cline_edit_date": 1769054010314,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ModifyCardSystem.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054046329,
+      "cline_edit_date": 1769054046329,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ActivateAbilityGA.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054061812,
+      "cline_edit_date": 1769054061812,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ActivateAbilitySystem.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054094781,
+      "cline_edit_date": 1769054094781,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/EditCardGA.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054114248,
+      "cline_edit_date": 1769054114248,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/EditCardSystem.cs",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054153268,
+      "cline_edit_date": 1769054153268,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/CardDataJSON.txt",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054212435,
+      "cline_edit_date": 1769054212435,
+      "user_edit_date": null
+    },
+    {
+      "path": "CardDataJSON.txt",
+      "record_state": "active",
+      "record_source": "user_edited",
+      "cline_read_date": 1769053733495,
+      "cline_edit_date": null,
+      "user_edit_date": 1769054212503
+    },
+    {
+      "path": "DrawCardGA.cs.meta",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1769054218668,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/BeginTurnGA.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054237010,
+      "cline_edit_date": 1769054237010,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/BeginTurnSystem.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054246040,
+      "cline_edit_date": 1769054246040,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DiscardCardGA.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054255430,
+      "cline_edit_date": 1769054255430,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DiscardCardSystem.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054264628,
+      "cline_edit_date": 1769054264628,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DestroyCardGA.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054274291,
+      "cline_edit_date": 1769054274291,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/DestroyCardSystem.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054292531,
+      "cline_edit_date": 1769054292531,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ModifyCardGA.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054302459,
+      "cline_edit_date": 1769054302459,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ModifyCardSystem.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054312337,
+      "cline_edit_date": 1769054312337,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ActivateAbilityGA.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054321724,
+      "cline_edit_date": 1769054321724,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/ActivateAbilitySystem.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054330583,
+      "cline_edit_date": 1769054330583,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/EditCardGA.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054340487,
+      "cline_edit_date": 1769054340487,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/EditCardSystem.cs.meta",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054357921,
+      "cline_edit_date": 1769054357921,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/IMPLEMENTATION_GUIDE.md",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054537138,
+      "cline_edit_date": 1769054537138,
+      "user_edit_date": null
+    },
+    {
+      "path": "/workspaces/Online-Card-Architecture/SECURITY_AND_MODULARITY_REPORT.md",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1769054739430,
+      "cline_edit_date": 1769054739430,
+      "user_edit_date": null
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1769053680655,
+      "model_id": "claude-sonnet-4-5-20250929",
+      "model_provider_id": "anthropic",
+      "mode": "act"
+    }
+  ],
+  "environment_history": [
+    {
+      "ts": 1769053680654,
+      "os_name": "linux",
+      "os_version": "6.8.0-1030-azure",
+      "os_arch": "x64",
+      "host_name": "Visual Studio Code",
+      "host_version": "1.108.1",
+      "cline_version": "3.51.0"
+    }
+  ]
+}
