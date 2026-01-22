@@ -88,6 +88,72 @@
 			"defensemod": -1,
 			"healthmod": -1, 
 			"effect": "Add 1 to any stat"
+		},
+		{
+			"name": "Forced Discard",
+			"id": 8,
+			"type": "Action",
+         	"power": -1,
+			"description": "Force your opponent to discard 2 cards from their hand.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Discard 2 cards"
+		},
+		{
+			"name": "Assassination",
+			"id": 9,
+			"type": "Action",
+         	"power": -1,
+			"description": "Destroy target minion on any base.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Destroy target minion"
+		},
+		{
+			"name": "Rally Cry",
+			"id": 10,
+			"type": "Action",
+         	"power": -1,
+			"description": "Give all your minions +2 power until end of turn.",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Modify all minions +2 power"
+		},
+		{
+			"name": "Ember Spirit",
+			"id": 11,
+			"type": "Minion",
+         	"power": 3,
+			"description": "Activate: Deal 1 damage to target minion.",
+			"attackmod": 1,
+			"defensemod": 0,
+			"healthmod": 0,
+			"effect": "Activate deal 1 damage"
+		},
+		{
+			"name": "Polymorph",
+			"id": 12,
+			"type": "Action",
+         	"power": -1,
+			"description": "Transform target minion into a Basic Minion (ID 2).",
+			"attackmod": -1,
+			"defensemod": -1,
+			"healthmod": -1,
+			"effect": "Transform to Basic Minion"
+		},
+		{
+			"name": "Dawn Ritualist",
+			"id": 13,
+			"type": "Minion",
+         	"power": 2,
+			"description": "At the beginning of your turn, draw a card.",
+			"attackmod": 0,
+			"defensemod": 1,
+			"healthmod": 0,
+			"effect": "Begin turn draw card"
 		}
 	]
 }
