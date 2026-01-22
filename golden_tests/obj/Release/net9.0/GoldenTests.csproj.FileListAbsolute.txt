@@ -1,0 +1,15 @@
+/workspaces/Online-Card-Architecture/golden_tests/bin/Release/net9.0/GoldenTests
+/workspaces/Online-Card-Architecture/golden_tests/bin/Release/net9.0/GoldenTests.deps.json
+/workspaces/Online-Card-Architecture/golden_tests/bin/Release/net9.0/GoldenTests.runtimeconfig.json
+/workspaces/Online-Card-Architecture/golden_tests/bin/Release/net9.0/GoldenTests.dll
+/workspaces/Online-Card-Architecture/golden_tests/bin/Release/net9.0/GoldenTests.pdb
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.AssemblyInfoInputs.cache
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.AssemblyInfo.cs
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.csproj.CoreCompileInputs.cache
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.sourcelink.json
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.dll
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/refint/GoldenTests.dll
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.pdb
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/GoldenTests.genruntimeconfig.cache
+/workspaces/Online-Card-Architecture/golden_tests/obj/Release/net9.0/ref/GoldenTests.dll
