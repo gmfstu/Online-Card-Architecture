@@ -11,7 +11,7 @@ public class PlayCardSystem : Singleton<PlayCardSystem>
 
     private void OnDisable()
     {
-        ActionSystem.DetachPerformer<DrawCardGA>();
+        ActionSystem.DetachPerformer<PlayCardGA>();
     }
 
     private IEnumerator PlayCardPerformer(PlayCardGA playCardGA)
